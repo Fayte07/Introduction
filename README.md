@@ -4,8 +4,7 @@
 
 ***Nous avons conçu « TO DIRECTION », une application web permettant à un manager ou à un chef d’équipe d’attribuer des tâches à chaque employé, de suivre l’avancement en temps réel, et de faciliter la communication dans l’entreprise.***
 
-<<<<<<< HEAD
-*Ce projet a été réalisé en HTML, CSS, PHP et SQL : il s’agit d’une webapp complète, moderne et responsive, avec un vrai back-office et des fonctionnalités essentielles pour toute organisation qui veut gagner en efficacité.*
+***Ce projet a été réalisé en HTML, CSS, PHP et SQL : il s’agit d’une webapp complète, moderne et responsive, avec un vrai back-office et des fonctionnalités essentielles pour toute organisation qui veut gagner en efficacité.***
 
 ## Fonctionnalités principales
 
@@ -20,6 +19,5 @@
 
 ### Stockage sécurisé
 ***Les données sont enregistrées en SQL, assurant la fiabilité et la traçabilité de chaque action.***
-=======
-***Ce projet a été réalisé en HTML, CSS, PHP et SQL : il s’agit d’une webapp complète, moderne et responsive, avec un vrai back-office et des fonctionnalités essentielles pour toute organisation qui veut gagner en efficacité.***
->>>>>>> Features/introduction
+
+
